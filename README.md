@@ -1,4 +1,4 @@
-## Eu sou Giordano e é isso que tenho a oferecer por aqui:
+## Olá, eu sou Giordano e é isso que tenho a oferecer por aqui:
 
 ## Minhas habilidades
 

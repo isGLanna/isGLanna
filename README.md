@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=isGLanna&theme=github)
+![GitHub Contribution Graph](https://github-contribution-grid-snake.vercel.app/api/gh/gh?username=isGLanna&theme=github-dark)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isGLanna&hide=html&layout=compact)
 

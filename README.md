@@ -1,4 +1,4 @@
-## Olá, eu sou Giordano e essas são minhas contribuições:
+## Olá, eu sou Giordano e essas são minhas contribuições aqui na comunidade:
 
 ## Minhas habilidades
 

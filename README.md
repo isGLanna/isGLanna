@@ -15,7 +15,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isGLanna&hide=html&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isGLanna&layout=compact&theme=dark)
 
 <!--
 **isGLanna/isGLanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -17,6 +17,7 @@
 
 <img
   alt="top languages"
-  heigth="200"
-  src={https://github-readme-stats.vercel.app/api/top-langs/?username=isGLanna&theme=dark}
->
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=isGLanna&theme=dark"
+/>
+

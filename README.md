@@ -16,8 +16,6 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
 <img
-  alt="top languages"
-  height="200"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=isGLanna&theme=dark"
 />
 
